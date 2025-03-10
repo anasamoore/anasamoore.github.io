@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
+		background-color: #25354F;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #25354F 15%, #80D467 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #25354F 15%, #25354F 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #25354F 15%, #25354F 85%);
@@ -312,7 +312,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		color: #935d8c;
+		color: #ffffff;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
